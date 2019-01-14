@@ -11,6 +11,7 @@ public class helloworld {
 		System.out.println("第一次");
 		System.out.println("第二次");
 		System.out.println("第三次");
+		System.out.println("最后一次");
 	}
 	public static void name() {
 		System.out.println("哈哈");
