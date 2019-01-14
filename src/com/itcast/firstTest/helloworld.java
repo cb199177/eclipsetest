@@ -9,6 +9,7 @@ public class helloworld {
 		System.out.println(stu);
 		name();
 		System.out.println("第一次");
+		System.out.println("第二次");
 	}
 	public static void name() {
 		System.out.println("哈哈");
